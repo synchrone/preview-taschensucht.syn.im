@@ -22,13 +22,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://preview-taschensucht.syn.im/en/categories/"
+                hreflang="ru"
+                href="http://preview-taschensucht.syn.im/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="http://preview-taschensucht.syn.im/categories/"
+                hreflang="en"
+                href="http://preview-taschensucht.syn.im/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -58,13 +58,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://preview-taschensucht.syn.im/en/tags/"
+                hreflang="ru"
+                href="http://preview-taschensucht.syn.im/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="http://preview-taschensucht.syn.im/tags/"
+                hreflang="en"
+                href="http://preview-taschensucht.syn.im/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -79,13 +79,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://preview-taschensucht.syn.im/en/"
+                hreflang="ru"
+                href="http://preview-taschensucht.syn.im/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="http://preview-taschensucht.syn.im/"
+                hreflang="en"
+                href="http://preview-taschensucht.syn.im/en/"
                 />
     <xhtml:link
                 rel="alternate"
