@@ -14,10 +14,15 @@ a.flag {
     outline: solid grey 1px;
 
     height: 20px;
-    width: 29px;
-    background-position-x: -1px;
-    background-position-y: -6px;
+    width: 38px;
+    background-position: -1px -6px;
     background-size: 40px 32px;
+}
+a.flag.small {
+    height: 18px;
+    width: 28px;
+    background-position: -1px -5px;
+    background-size: 30px 28px;
 }
 a[hreflang=ru]{
     background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAwUlEQVR4Xu3biRWAIAwD0Hb/ofF5gMoK+W5AyFXArvCvw9dfAMCAcARIIJwATJAESCAcARKYBBhjjCQydPe1+YsBAMAAEuABTDAIASkgBvUARUgTVIU/s0BVVhOs2kwQABhAAlHDEA9gglLgX4XFoBgUg2Iw6ETsnAO384CqKAb0Mwi+N0MAwAASSDJBHsAE76cBUmC9EBGDYlAMisEgBPSAvQcEbf5vqV6Kpu78XDcGYEA4AiQQTgA/TZEACYQjcABFiWpB1tAwgwAAAABJRU5ErkJggg==);
