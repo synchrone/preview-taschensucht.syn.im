@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://preview-taschensucht.syn.im/de/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://preview-taschensucht.syn.im/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://preview-taschensucht.syn.im/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://preview-taschensucht.syn.im/de/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://preview-taschensucht.syn.im/de/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://preview-taschensucht.syn.im/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://preview-taschensucht.syn.im/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://preview-taschensucht.syn.im/de/about/"
+                />
+  </url>
+  
+  <url>
     <loc>http://preview-taschensucht.syn.im/de/portfolio/cogwheel/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <xhtml:link

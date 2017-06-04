@@ -5,11 +5,41 @@
   <url>
     <loc>http://preview-taschensucht.syn.im/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://preview-taschensucht.syn.im/de/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://preview-taschensucht.syn.im/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://preview-taschensucht.syn.im/contact/"
+                />
   </url>
   
   <url>
     <loc>http://preview-taschensucht.syn.im/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://preview-taschensucht.syn.im/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://preview-taschensucht.syn.im/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://preview-taschensucht.syn.im/about/"
+                />
   </url>
   
   <url>
