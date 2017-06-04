@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://preview-taschensucht.syn.im/de/portfolio/cogwheel/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://preview-taschensucht.syn.im/portfolio/cogwheel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://preview-taschensucht.syn.im/de/portfolio/cogwheel/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://preview-taschensucht.syn.im/de/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://preview-taschensucht.syn.im/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://preview-taschensucht.syn.im/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://preview-taschensucht.syn.im/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://preview-taschensucht.syn.im/de/portfolio/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://preview-taschensucht.syn.im/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://preview-taschensucht.syn.im/de/portfolio/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://preview-taschensucht.syn.im/de/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://preview-taschensucht.syn.im/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://preview-taschensucht.syn.im/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://preview-taschensucht.syn.im/de/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://preview-taschensucht.syn.im/de/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://preview-taschensucht.syn.im/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://preview-taschensucht.syn.im/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://preview-taschensucht.syn.im/de/"
+                />
+  </url>
+  
+</urlset>
