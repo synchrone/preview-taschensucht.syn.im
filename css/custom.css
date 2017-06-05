@@ -6,6 +6,10 @@ h1 {
     display: inline;
     margin-right: 20pt;
 }
+.content-column-content p,
+.content-column-content li {
+  color: #333;
+}
 
 a.flag {
     display: inline-block;
